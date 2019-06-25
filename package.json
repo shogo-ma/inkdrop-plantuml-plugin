@@ -14,7 +14,7 @@
     "standard": "^10.0.3"
   },
   "engines": {
-    "inkdrop": "^3.1.1"
+    "inkdrop": "^4.x"
   },
   "keywords": [],
   "license": "MIT",
